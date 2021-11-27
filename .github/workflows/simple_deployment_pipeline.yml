@@ -29,3 +29,4 @@ jobs:
           heroku_email: "elsi.silvennoinen@gmail.com"
           healthcheck: "https://arcane-wave-85428.herokuapp.com/health"
           checkstring: "ok"
+          rollbackonhealthcheckfailed: true
