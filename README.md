@@ -1,4 +1,6 @@
 # Full Stack open CI/CD
+Exercises 11.21 and 11.22 can be found [here].
+
 
 This repository is used for the CI/CD module of the Full stack open course
 
@@ -13,3 +15,6 @@ Start by running `npm install` inside the project folder
 `npm run eslint` to run eslint
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
+
+[//]: #
+[here]: <https://github.com/elsilv/bloglist-cicd>
